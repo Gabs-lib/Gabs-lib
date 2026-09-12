@@ -7,11 +7,11 @@
 <img width="260" alt="banner" src="https://github.com/user-attachments/assets/fc7f8ff3-9902-4fb3-8632-dcff102f218b" style="border-radius: 12px; box-shadow: 0 0 15px #ff007f;" />
 
 <p align="center">
-  <a href="https://linkedin.com/in/seu-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin.com/in/gabriel-tondolo-4b02a0357" />
+  <a href="https://linkedin.com/in/linkedin.com/in/gabriel-tondolo-4b02a0357" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkdin" />
   </a>
-  <a href="mailto:seu-email@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gabrieltondolo@gmail.com" />
+  <a href="gabrieltondolo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
