@@ -19,7 +19,7 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 - 🧬 **Biologist** & soon-to-be **Computer Engineer** bridging life sciences with hardware and low-level computing.
 - ⚡ **Focus Areas:** Developing custom tools/software for Tabletop RPGs (TTRPGs) and scripting data/waveform plotting for Cadence Virtuoso simulations.
